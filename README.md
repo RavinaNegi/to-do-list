@@ -32,8 +32,7 @@ A simple **To-Do List App** with weather integration using **React, Redux Toolki
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/RavinaNegi/to-do-list.git
-cd to-do-list
+
 ```
 
 ### **2️⃣ Install Dependencies**
